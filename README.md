@@ -6,5 +6,5 @@ My first ever shiny app using data from [Figueiredo et al. 2020](https://www.the
 ## Deployed
 [https://gretacv.shinyapps.io/shiny_app/](https://gretacv.shinyapps.io/shiny_app/)
 ## Used tutorials
-by Shiny, [github repo](https://github.com/rstudio-education/shiny.rstudio.com-tutorial)
-by [Jakob37](https://github.com/Jakob37) [tutorial url](https://www.jakobwillforss.com/post/shiny-from-scratch-hands-on-tutorial/)
+- by Shiny, [github repo](https://github.com/rstudio-education/shiny.rstudio.com-tutorial)
+- by [Jakob37](https://github.com/Jakob37) [tutorial url](https://www.jakobwillforss.com/post/shiny-from-scratch-hands-on-tutorial/)
